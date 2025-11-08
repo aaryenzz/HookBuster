@@ -21,7 +21,7 @@ It extracts smart URL features — like length, special characters, and subdomai
 
 ### 🚀 Quick Start
 ```bash
-git clone https://github.com/<your-username>/HookBuster.git
+git clone https://github.com/aaryenzz/HookBuster.git
 cd HookBuster
 pip install -r requirements.txt
 python src/train_model.py
